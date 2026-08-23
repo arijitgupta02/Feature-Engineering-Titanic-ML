@@ -120,10 +120,6 @@ The project includes visual analysis of the original and engineered features.
 
 ![Family Size Distribution](images/family_size_distribution.png)
 
-### Survival Rate by Age Group
-
-![Survival Rate by Age Group](images/survival_by_age_group.png)
-
 ### Survival Rate by Family Size
 
 ![Survival Rate by Family Size](images/survival_by_family_size.png)
